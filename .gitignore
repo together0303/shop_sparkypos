@@ -18,6 +18,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-
-/resources/views/installer/layout.blade.php
-/resources/views/auth/admin_login.blade.php
